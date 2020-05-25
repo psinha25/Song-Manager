@@ -1,0 +1,6 @@
+1) Even though I created a virtual environment and then installed flask into that virtual environment,
+   still ran into issues with 'from flask import flask' - reason had to do with the python interpreter
+   that was selected. I opened the command palette and simply types '> Python:Select Interpreter' and clicked
+   on the one with 'env' in the route. More information on https://stackoverflow.com/questions/50905636/e0401unable-to-import-flask/54383230
+
+2) 
